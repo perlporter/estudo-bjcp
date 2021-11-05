@@ -1,6 +1,6 @@
 # BJCP 2015
 
-* 1 Standard American Beer
+* 1 [Standard American Beer](1.md)
 * 2 International Lager
 * 3 Czech Lager
 * 4 Pale Malty European Lager
